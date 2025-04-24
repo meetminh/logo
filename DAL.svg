@@ -1,2 +1,3 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 56 56"><ns0:path fill="#081135" d="M0 0h56v56H0z" /><ns0:path d="M42.821 36.214L28 28.959V13L42.82 36.214zM44 39l-16-6.886V39h16z" fill="#98002E" /><ns0:path d="M13.178 36.214L28 13v15.96l-14.822 7.254zM12 39h16v-6.886L12 39z" fill="#E31837" /></ns0:svg>
+<!-- by TradeStack -->
+<svg viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg"><path fill="#081135" d="M0 0h56v56H0z" /><path d="M42.821 36.214L28 28.959V13L42.82 36.214zM44 39l-16-6.886V39h16z" fill="#98002E" /><path d="M13.178 36.214L28 13v15.96l-14.822 7.254zM12 39h16v-6.886L12 39z" fill="#E31837" /></svg>
